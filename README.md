@@ -16,9 +16,8 @@ The frontend code for this project is "Omnifood." It is a food delivery website 
 - **CloudFront Distribution (HTTPS)**: https://dna7ev6bthlku.cloudfront.net
 
 ## Access Credentials
-- **Console URL**: https://adewuumii.signin.aws.amazon.com/console
 - **Username**: cloudlaunch-user
-- **Initial Password**: *1xQ9%SW (set to be changed on first login)
+The IAM user credentials file has been securely shared via Google Drive.
 
 ## Visual Documentation
 Complete implementation screenshots are available in the `screenshots/` folder:
