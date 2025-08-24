@@ -17,6 +17,7 @@ The frontend code for this project is "Omnifood." It is a food delivery website 
 
 ## Access Credentials
 - **Username**: cloudlaunch-user
+
 The IAM user credentials file has been securely shared via Google Drive.
 
 ## Visual Documentation
